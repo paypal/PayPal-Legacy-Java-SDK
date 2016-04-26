@@ -1,4 +1,4 @@
-# PayPal-Legacy-Java-SDK
+# PayPal Legacy Java SDK
 
 ### PayPal Legacy Java SDK JSP Sample
 
@@ -14,5 +14,15 @@
 - The sample WAR file includes `paypal_base.jar` which is part of the PayPal Java SDK. To run this sample application, you do not need to replace your current `paypal_base.jar` unless it is on the Java classpath or OS path. The sample web application will normally load the `paypal_base.jar` inside the WAR under most web container classloader rules. However, if you get any error, please try replacing your current `paypal_base.jar` with the one in the WAR file to ensure there is not a class loading issue.
 - `paypal_base.jar` can be used for both SOAP and NVP types.
 
-### PayPal Legacy Java SDK
+### Updating your SDK
 Please replace [paypal_base.jar](https://github.com/paypal/PayPal-Legacy-Java-SDK/blob/master/paypal_base.jar) in the PayPal Java SDK directory with the one in this repository.
+
+Contributing
+------------
+
+Please read our [contributing guidelines](CONTRIBUTING.md) prior to submitting a Pull Request.
+
+License
+-------
+
+Please refer to this repo's [license file](LICENSE).
