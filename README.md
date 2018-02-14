@@ -1,5 +1,9 @@
 # PayPal Legacy Java SDK
 
+### Support
+
+> Please contact [PayPal Technical Support](https://developer.paypal.com/support/) for any live or account issues.
+
 ### PayPal Legacy Java SDK JSP Sample
 
 ##### Steps to run the PayPal Java SDK JSP Sample:
